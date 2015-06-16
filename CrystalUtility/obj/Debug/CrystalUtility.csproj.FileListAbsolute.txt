@@ -1,0 +1,13 @@
+c:\users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\bin\Debug\CrystalUtility.exe.config
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.Form1.resources
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.Properties.Resources.resources
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.csproj.GenerateResource.Cache
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\bin\Debug\CrystalUtility.exe
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\bin\Debug\CrystalUtility.pdb
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.exe
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.pdb
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.csprojResolveAssemblyReference.cache
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\bin\Debug\CrystalUtility.exe.manifest
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\bin\Debug\CrystalUtility.application
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.exe.manifest
+C:\Users\apersinger\documents\visual studio 2013\Projects\CrystalUtility\CrystalUtility\obj\Debug\CrystalUtility.application
